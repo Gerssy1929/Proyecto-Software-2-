@@ -1,0 +1,95 @@
+Date : 2023-05-12 19:27:01
+Directory : c:\Users\ardil\Downloads\Proyecto-cliente(1)
+Total : 46 files,  15504 codes, 131 comments, 372 blanks, all 16007 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JSON       |          5 |     13,609 |          0 |          3 |     13,612 |
+| JavaScript |         30 |      1,282 |        127 |        258 |      1,667 |
+| CSS        |          1 |        333 |          4 |         26 |        363 |
+| Markdown   |          9 |        258 |          0 |         84 |        342 |
+| HTML       |          1 |         22 |          0 |          1 |         23 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                       | files      | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                          |         46 |     15,504 |        131 |        372 |     16,007 |
+| .VSCodeCounter                                                                                             |         10 |        223 |          0 |         52 |        275 |
+| .VSCodeCounter\2023-05-12_18-48-20                                                                         |          5 |        103 |          0 |         26 |        129 |
+| .VSCodeCounter\2023-05-12_18-49-32                                                                         |          5 |        120 |          0 |         26 |        146 |
+| Proyecto-cliente                                                                                           |         36 |     15,281 |        131 |        320 |     15,732 |
+| Proyecto-cliente (Files)                                                                                   |          3 |     13,619 |          0 |         34 |     13,653 |
+| Proyecto-cliente\public                                                                                    |          2 |         47 |          0 |          2 |         49 |
+| Proyecto-cliente\src                                                                                       |         31 |      1,615 |        131 |        284 |      2,030 |
+| Proyecto-cliente\src (Files)                                                                               |          4 |        467 |         39 |         47 |        553 |
+| Proyecto-cliente\src\components                                                                            |         12 |        583 |         66 |        147 |        796 |
+| Proyecto-cliente\src\components\auth                                                                       |          2 |        194 |         18 |         43 |        255 |
+| Proyecto-cliente\src\components\layout                                                                     |          2 |         37 |          2 |         14 |         53 |
+| Proyecto-cliente\src\components\proyectos                                                                  |          4 |        150 |         19 |         43 |        212 |
+| Proyecto-cliente\src\components\rutas                                                                      |          1 |         18 |          1 |          6 |         25 |
+| Proyecto-cliente\src\components\tareas                                                                     |          3 |        184 |         26 |         41 |        251 |
+| Proyecto-cliente\src\config                                                                                |          2 |         14 |          0 |          4 |         18 |
+| Proyecto-cliente\src\context                                                                               |         12 |        529 |         26 |         83 |        638 |
+| Proyecto-cliente\src\context\alertas                                                                       |          3 |         53 |          2 |         11 |         66 |
+| Proyecto-cliente\src\context\autenticacion                                                                 |          3 |        148 |          7 |         24 |        179 |
+| Proyecto-cliente\src\context\proyectos                                                                     |          3 |        170 |          8 |         25 |        203 |
+| Proyecto-cliente\src\context\tareas                                                                        |          3 |        158 |          9 |         23 |        190 |
+| Proyecto-cliente\src\types                                                                                 |          1 |         22 |          0 |          3 |         25 |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                   | language   | code       | comment    | blank      | total      |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-48-20\details.md                 | Markdown   |         45 |          0 |          6 |         51 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-48-20\diff-details.md            | Markdown   |          9 |          0 |          6 |         15 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-48-20\diff.md                    | Markdown   |         12 |          0 |          7 |         19 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-48-20\results.json               | JSON       |          1 |          0 |          0 |          1 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-48-20\results.md                 | Markdown   |         36 |          0 |          7 |         43 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-49-32\details.md                 | Markdown   |         50 |          0 |          6 |         56 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-49-32\diff-details.md            | Markdown   |         14 |          0 |          6 |         20 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-49-32\diff.md                    | Markdown   |         17 |          0 |          7 |         24 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-49-32\results.json               | JSON       |          1 |          0 |          0 |          1 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\.VSCodeCounter\2023-05-12_18-49-32\results.md                 | Markdown   |         38 |          0 |          7 |         45 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\README.md                                    | Markdown   |         37 |          0 |         32 |         69 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\package-lock.json                            | JSON       |     13,547 |          0 |          1 |     13,548 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\package.json                                 | JSON       |         35 |          0 |          1 |         36 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\public\index.html                            | HTML       |         22 |          0 |          1 |         23 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\public\manifest.json                         | JSON       |         25 |          0 |          1 |         26 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\App.js                                   | JavaScript |         35 |          1 |          5 |         41 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\auth\Login.js                 | JavaScript |         77 |          8 |         20 |        105 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\auth\NuevaCuenta.js           | JavaScript |        117 |         10 |         23 |        150 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\layout\Barra.js               | JavaScript |         21 |          2 |         10 |         33 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\layout\Sidebar.js             | JavaScript |         16 |          0 |          4 |         20 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\proyectos\ListadoProyectos.js | JavaScript |         37 |          5 |         13 |         55 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\proyectos\NuevoProyecto.js    | JavaScript |         62 |          9 |         17 |         88 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\proyectos\Proyecto.js         | JavaScript |         23 |          3 |          5 |         31 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\proyectos\Proyectos.js        | JavaScript |         28 |          2 |          8 |         38 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\rutas\RutaPrivada.js          | JavaScript |         18 |          1 |          6 |         25 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\tareas\FormTarea.js           | JavaScript |         75 |         15 |         18 |        108 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\tareas\ListadoTareas.js       | JavaScript |         46 |          5 |         10 |         61 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\components\tareas\Tarea.js               | JavaScript |         63 |          6 |         13 |         82 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\config\axios.js                          | JavaScript |          5 |          0 |          2 |          7 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\config\token.js                          | JavaScript |          9 |          0 |          2 |         11 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\alertas\alertaContext.js         | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\alertas\alertaReducer.js         | JavaScript |         15 |          0 |          1 |         16 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\alertas\alertaState.js           | JavaScript |         35 |          2 |          8 |         45 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\autenticacion\authContext.js     | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\autenticacion\authReducer.js     | JavaScript |         42 |          0 |          2 |         44 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\autenticacion\authState.js       | JavaScript |        103 |          7 |         20 |        130 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\proyectos\proyectoContext.js     | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\proyectos\proyectoReducer.js     | JavaScript |         53 |          0 |          2 |         55 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\proyectos\proyectoState.js       | JavaScript |        114 |          8 |         21 |        143 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\tareas\tareaContext.js           | JavaScript |          3 |          0 |          2 |          5 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\tareas\tareaReducer.js           | JavaScript |         51 |          0 |          1 |         52 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\context\tareas\tareaState.js             | JavaScript |        104 |          9 |         20 |        133 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\index.css                                | CSS        |        333 |          4 |         26 |        363 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\index.js                                 | JavaScript |          7 |          3 |          3 |         13 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\serviceWorker.js                         | JavaScript |         92 |         31 |         13 |        136 |
+| c:\Users\ardil\Downloads\Proyecto-cliente(1)\Proyecto-cliente\src\types\index.js                           | JavaScript |         22 |          0 |          3 |         25 |
+| Total                                                                                                      |            |     15,504 |        131 |        372 |     16,007 |
++------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+

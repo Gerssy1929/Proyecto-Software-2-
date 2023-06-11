@@ -1,0 +1,6 @@
+{
+    "recommendations": [
+        "kisstkondoros.vscode-codemetrics",
+        "deque-systems.vscode-axe-linter"
+    ]
+}

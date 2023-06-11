@@ -1,0 +1,60 @@
+Date : 2023-05-12 19:27:57
+Directory : c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor
+Total : 25 files,  591 codes, 83 comments, 171 blanks, all 845 lines
+
+Languages
++------------+------------+------------+------------+------------+------------+
+| language   | files      | code       | comment    | blank      | total      |
++------------+------------+------------+------------+------------+------------+
+| JavaScript |         14 |        414 |         83 |        118 |        615 |
+| Markdown   |          8 |        150 |          0 |         52 |        202 |
+| JSON       |          3 |         27 |          0 |          1 |         28 |
++------------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                               | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                  |         25 |        591 |         83 |        171 |        845 |
+| . (Files)                                                                                                          |          2 |         40 |          7 |          8 |         55 |
+| .VSCodeCounter                                                                                                     |         10 |        152 |          0 |         52 |        204 |
+| .VSCodeCounter\2023-05-12_18-49-06                                                                                 |          5 |         67 |          0 |         26 |         93 |
+| .VSCodeCounter\2023-05-12_19-02-53                                                                                 |          5 |         85 |          0 |         26 |        111 |
+| config                                                                                                             |          1 |         17 |          0 |          2 |         19 |
+| controllers                                                                                                        |          4 |        226 |         56 |         83 |        365 |
+| middleware                                                                                                         |          1 |         14 |          3 |          4 |         21 |
+| models                                                                                                             |          3 |         62 |          0 |          6 |         68 |
+| routes                                                                                                             |          4 |         80 |         17 |         16 |        113 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| filename                                                                                                           | language   | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_18-49-06\details.md      | Markdown   |         24 |          0 |          6 |         30 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_18-49-06\diff-details.md | Markdown   |          9 |          0 |          6 |         15 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_18-49-06\diff.md         | Markdown   |         12 |          0 |          7 |         19 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_18-49-06\results.json    | JSON       |          1 |          0 |          0 |          1 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_18-49-06\results.md      | Markdown   |         21 |          0 |          7 |         28 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_19-02-53\details.md      | Markdown   |         29 |          0 |          6 |         35 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_19-02-53\diff-details.md | Markdown   |         14 |          0 |          6 |         20 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_19-02-53\diff.md         | Markdown   |         17 |          0 |          7 |         24 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_19-02-53\results.json    | JSON       |          1 |          0 |          0 |          1 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\.VSCodeCounter\2023-05-12_19-02-53\results.md      | Markdown   |         24 |          0 |          7 |         31 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\config\db.js                                       | JavaScript |         17 |          0 |          2 |         19 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\controllers\authController.js                      | JavaScript |         43 |          8 |         10 |         61 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\controllers\proyectoController.js                  | JavaScript |         67 |         17 |         25 |        109 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\controllers\tareaController.js                     | JavaScript |         81 |         22 |         34 |        137 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\controllers\usuarioController.js                   | JavaScript |         35 |          9 |         14 |         58 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\index.js                                           | JavaScript |         15 |          7 |          7 |         29 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\middleware\auth.js                                 | JavaScript |         14 |          3 |          4 |         21 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\models\Proyecto.js                                 | JavaScript |         17 |          0 |          2 |         19 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\models\Tarea.js                                    | JavaScript |         21 |          0 |          2 |         23 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\models\Usuario.js                                  | JavaScript |         24 |          0 |          2 |         26 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\package.json                                       | JSON       |         25 |          0 |          1 |         26 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\routes\auth.js                                     | JavaScript |         13 |          4 |          2 |         19 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\routes\proyectos.js                                | JavaScript |         28 |          5 |          6 |         39 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\routes\tareas.js                                   | JavaScript |         26 |          5 |          5 |         36 |
+| c:\Users\ardil\Downloads\Proyecto-servidor(1)\Proyecto-servidor\routes\usuarios.js                                 | JavaScript |         13 |          3 |          3 |         19 |
+| Total                                                                                                              |            |        591 |         83 |        171 |        845 |
++--------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
